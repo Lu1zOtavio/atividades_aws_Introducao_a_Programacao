@@ -9,4 +9,3 @@ while(l>=0):
   if (l != 13):
    print("andar " + str(l) )
   l=l-1
-
